@@ -1,0 +1,12 @@
+.products_list {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+
+  &__header {
+    display: flex;
+    align-items: center;
+    gap: 25px;
+    margin-bottom: 25px;
+  }
+}
